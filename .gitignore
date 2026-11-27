@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Databricks
+.databricks/
+*.dbw
+local/
+
+# Generated data and local run outputs (the sample in data/ is committed)
+staging/
+output/
+*.parquet
+*.json
+!data/sample_cdc_events.csv
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
