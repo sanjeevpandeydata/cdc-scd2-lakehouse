@@ -1,0 +1,31 @@
+customer_id,full_name,email,city,tier,loyalty_points,updated_at,operation,seq,source_ts
+CUST-0001,Aarav Sharma,aarav.sharma12@example.com,Mumbai,BRONZE,,2026-01-01 00:01:00,INSERT,1,2026-01-01 00:01:00
+CUST-0002,Ananya Verma,ananya.verma34@example.com,Delhi,SILVER,,2026-01-01 00:02:00,INSERT,2,2026-01-01 00:02:00
+CUST-0003,Kabir Patel,kabir.patel07@example.com,Bengaluru,BRONZE,,2026-01-01 00:03:00,INSERT,3,2026-01-01 00:03:00
+CUST-0004,Meera Iyer,meera.iyer21@example.com,Chennai,GOLD,,2026-01-01 00:04:00,INSERT,4,2026-01-01 00:04:00
+CUST-0005,Rohan Singh,rohan.singh55@example.com,Kolkata,BRONZE,,2026-01-01 00:05:00,INSERT,5,2026-01-01 00:05:00
+CUST-0006,Diya Gupta,diya.gupta18@example.com,Pune,SILVER,,2026-01-01 00:06:00,INSERT,6,2026-01-01 00:06:00
+CUST-0007,Arjun Nair,arjun.nair42@example.com,Hyderabad,BRONZE,,2026-01-01 00:07:00,INSERT,7,2026-01-01 00:07:00
+CUST-0008,Sara Khan,sara.khan09@example.com,Jaipur,GOLD,,2026-01-01 00:08:00,INSERT,8,2026-01-01 00:08:00
+CUST-0009,Dev Joshi,dev.joshi63@example.com,Ahmedabad,SILVER,,2026-01-01 00:09:00,INSERT,9,2026-01-01 00:09:00
+CUST-0010,Navya Reddy,navya.reddy27@example.com,Lucknow,BRONZE,,2026-01-01 00:10:00,INSERT,10,2026-01-01 00:10:00
+CUST-0001,Aarav Sharma,aarav.sharma12@example.com,Pune,SILVER,,2026-01-02 08:14:00,UPDATE,201,2026-01-02 08:14:00
+CUST-0003,Kabir Patel,kabir.patel07@example.com,Bengaluru,GOLD,,2026-01-02 09:02:00,UPDATE,202,2026-01-02 09:02:00
+CUST-0005,Rohan Singh,rohan.singh55@example.com,Kolkata,BRONZE,,2026-01-02 09:31:00,UPDATE,203,2026-01-02 09:31:00
+CUST-0005,Rohan Singh,rohan.singh55@example.com,Kolkata,BRONZE,,2026-01-02 09:31:00,UPDATE,203,2026-01-02 09:31:00
+CUST-0002,Ananya Verma,ananya.verma34@example.com,Delhi,SILVER,,2026-01-02 10:05:00,UPDATE,204,2026-01-02 10:05:00
+CUST-0004,Meera Iyer,meera.iyer21@example.com,Mumbai,GOLD,,2026-01-02 11:20:00,UPDATE,205,2026-01-02 11:20:00
+CUST-0006,,,,,,2026-01-04 14:00:00,DELETE,206,2026-01-04 14:00:00
+CUST-0007,Arjun Nair,arjun.nair42@example.com,Hyderabad,BRONZE,,2026-01-02 12:44:00,UPDATE,207,2026-01-02 12:44:00
+CUST-0008,Sara Khan,sara.khan09@example.com,Jaipur,PLATINUM,,2026-01-02 13:15:00,UPDATE,208,2026-01-02 13:15:00
+CUST-0009,Dev Joshi,dev.joshi63@example.com,Ahmedabad,SILVER,,2026-01-02 14:26:00,UPDATE,209,2026-01-02 14:26:00
+CUST-0010,Navya Reddy,navya.reddy27@example.com,Lucknow,SILVER,,2026-01-02 15:03:00,UPDATE,210,2026-01-02 15:03:00
+CUST-0001,Aarav Sharma,aarav.sharma12@example.com,Pune,SILVER,1250,2026-01-03 09:00:00,UPDATE,401,2026-01-03 09:00:00
+CUST-0003,Kabir Patel,kabir.patel07@example.com,Bengaluru,GOLD,3400,2026-01-03 09:12:00,UPDATE,402,2026-01-03 09:12:00
+CUST-0004,Meera Iyer,meera.iyer21@example.com,Mumbai,GOLD,5100,2026-01-03 09:25:00,UPDATE,403,2026-01-03 09:25:00
+CUST-0006,Anika Das,anika.das44@example.com,Ranchi,BRONZE,250,2026-01-05 10:00:00,INSERT,404,2026-01-05 10:00:00
+CUST-0008,Sara Khan,sara.khan09@example.com,Jaipur,PLATINUM,7800,2026-01-03 10:40:00,UPDATE,405,2026-01-03 10:40:00
+CUST-0002,Ananya Verma,ananya.verma34@example.com,Delhi,SILVER,900,2026-01-03 11:05:00,UPDATE,406,2026-01-03 11:05:00
+CUST-0005,,,,,,2026-01-04 16:30:00,DELETE,407,2026-01-04 16:30:00
+CUST-0001,Aarav Sharma,aarav.sharma12@example.com,Mumbai,SILVER,,2026-01-01 00:30:00,UPDATE,2,2026-01-01 00:30:00
+CUST-0009,Dev Joshi,dev.joshi63@example.com,Ahmedabad,GOLD,2200,2026-01-03 12:15:00,UPDATE,408,2026-01-03 12:15:00
